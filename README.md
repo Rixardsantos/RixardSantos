@@ -1,7 +1,7 @@
 ## Hey There, I'm Rixard Santos!
 <div align="center">
   <a href="https://www.linkedin.com/in/rixardsantos/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixardsantos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixardsantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##
